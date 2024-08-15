@@ -13,3 +13,35 @@ const climbStairsMemo = memoizedClimbStairs();
 console.time("With Memoization - Climbing Stairs");
 console.log(climbStairsMemo(30));
 console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");
+
+console.time("With Memoization - Climbing Stairs");
+console.log(climbStairsMemo(30));
+console.timeEnd("With Memoization - Climbing Stairs");

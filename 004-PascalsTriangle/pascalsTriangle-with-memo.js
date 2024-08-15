@@ -14,3 +14,19 @@ const pascalMemo = memoizedPascal();
 console.time("With Memoization - Pascal's Triangle");
 console.log(pascalMemo(20, 15)); // Expected output: 6435
 console.timeEnd("With Memoization - Pascal's Triangle");
+
+console.time("With Memoization - Pascal's Triangle");
+console.log(pascalMemo(20, 15)); // Expected output: 6435
+console.timeEnd("With Memoization - Pascal's Triangle");
+
+console.time("With Memoization - Pascal's Triangle");
+console.log(pascalMemo(20, 15)); // Expected output: 6435
+console.timeEnd("With Memoization - Pascal's Triangle");
+
+console.time("With Memoization - Pascal's Triangle");
+console.log(pascalMemo(20, 15)); // Expected output: 6435
+console.timeEnd("With Memoization - Pascal's Triangle");
+
+console.time("With Memoization - Pascal's Triangle");
+console.log(pascalMemo(20, 15)); // Expected output: 6435
+console.timeEnd("With Memoization - Pascal's Triangle");

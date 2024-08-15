@@ -12,3 +12,15 @@ function coinChange(coins, amount) {
 console.time("Without Memoization - Coin Change");
 console.log(coinChange([1, 2, 5], 33)); // Expected output: 3
 console.timeEnd("Without Memoization - Coin Change");
+
+console.time("Without Memoization - Coin Change");
+console.log(coinChange([1, 2, 5], 33)); // Expected output: 3
+console.timeEnd("Without Memoization - Coin Change");
+
+console.time("Without Memoization - Coin Change");
+console.log(coinChange([1, 2, 5], 33)); // Expected output: 3
+console.timeEnd("Without Memoization - Coin Change");
+
+console.time("Without Memoization - Coin Change");
+console.log(coinChange([1, 2, 5], 33)); // Expected output: 3
+console.timeEnd("Without Memoization - Coin Change");

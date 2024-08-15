@@ -13,3 +13,11 @@ const factorialMemo = memoizedFactorial();
 console.time("With Memoization - Factorial");
 console.log(factorialMemo(20));
 console.timeEnd("With Memoization - Factorial");
+
+console.time("With Memoization - Factorial");
+console.log(factorialMemo(20));
+console.timeEnd("With Memoization - Factorial");
+
+console.time("With Memoization - Factorial");
+console.log(factorialMemo(10));
+console.timeEnd("With Memoization - Factorial");

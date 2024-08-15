@@ -14,3 +14,11 @@ const uniquePathsMemo = memoizedUniquePaths();
 console.time("With Memoization - Unique Paths");
 console.log(uniquePathsMemo(10, 20)); // Expected output: 48620
 console.timeEnd("With Memoization - Unique Paths");
+
+console.time("With Memoization - Unique Paths");
+console.log(uniquePathsMemo(10, 20)); // Expected output: 48620
+console.timeEnd("With Memoization - Unique Paths");
+
+console.time("With Memoization - Unique Paths");
+console.log(uniquePathsMemo(10, 20)); // Expected output: 48620
+console.timeEnd("With Memoization - Unique Paths");

@@ -31,3 +31,7 @@ const editDistanceMemo = memoizedEditDistance();
 console.time("With Memoization - Edit Distance");
 console.log(editDistanceMemo("tomorrow is sunday", "today is saturday")); // Expected output: 9
 console.timeEnd("With Memoization - Edit Distance");
+
+console.time("With Memoization - Edit Distance");
+console.log(editDistanceMemo("tomorrow is sunday", "today is saturday")); // Expected output: 9
+console.timeEnd("With Memoization - Edit Distance");
